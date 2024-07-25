@@ -11,6 +11,4 @@ Soy un desarrollador de software, con mas de 5 años de experiencia, apasionado 
 
 
 ## Sígueme en
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
-- [Twitter](https://twitter.com/tu-usuario)
-- [Sitio web](https://tu-sitio-web.com)
+- [LinkedIn](https://www.linkedin.com/in/andrés-chasi-echeverria-52bb24b1)
