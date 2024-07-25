@@ -1,9 +1,7 @@
 # Hola, soy Andrés 👋
 
-![Visitas de perfil](https://visitor-badge.glitch.me/badge?page_id=tu-usuario.tu-usuario)
-
 ## Acerca de mí
-Soy un desarrollador de software, con mas de 5 años de experiencia, apasionado por la tecnología y la innovación. Actualmente trabajo con React Native, Node.js, Angular, Postgres, Mongo. 
+Soy un desarrollador de software, con mas de 5 años de experiencia, apasionado por la tecnología y la innovación. Especialista en React Native, Node.js, Angular, Postgres, Mongo. 
 
 ## 🔧 Tecnologías y Herramientas
 ![AngularJs](https://img.shields.io/badge/-Angulart%20Js-black?style=flat-square&logo=angular)
@@ -12,3 +10,7 @@ Soy un desarrollador de software, con mas de 5 años de experiencia, apasionado 
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 
 
+## Sígueme en
+- [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
+- [Twitter](https://twitter.com/tu-usuario)
+- [Sitio web](https://tu-sitio-web.com)
